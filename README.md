@@ -1,5 +1,4 @@
 # hello-world
-Pratim upute korištenja.
 
 Hi humas!
 
